@@ -1,0 +1,8 @@
+# ninja log v5
+14	585	6720703328818739	CMakeFiles/naloga0702.dir/VecPrintUtil.cpp.obj	dcf10fa930180f2a
+1	91	6720538608599184	CMakeFiles/naloga0702.dir/ColorCode.cpp.obj	847b28c79b64af34
+8	1039	6720703333316709	CMakeFiles/naloga0702.dir/main.cpp.obj	5f47d6005ccefc8c
+6	422	6720538611908461	CMakeFiles/naloga0702.dir/PrintUtil.cpp.obj	f3373c6fe43855ca
+864	1111	6720696979161710	naloga0702.exe	db06e711554e96bd
+1	227	6720703984135264	build.ninja	bce9342efa3d927b
+6	182	6720703986674126	naloga0702.exe	db06e711554e96bd

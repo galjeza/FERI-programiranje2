@@ -1,0 +1,21 @@
+# ninja log v5
+6	1455	6701797472817695	CMakeFiles/naloga_0501.dir/Artwork.cpp.obj	ca01def0cacf413d
+33	985	6701648916633112	CMakeFiles/naloga_0401.dir/Date.cpp.obj	6a6ba14a4434fa90
+57	722	6701673172399318	CMakeFiles/naloga_0501.dir/Date.cpp.obj	8359580aedda979e
+1551	2256	6701671021626636	naloga_0401.exe	a93d22268b1aadbb
+28	726	6701669557991891	CMakeFiles/naloga_0401.dir/Gallery.cpp.obj	dbbe4a45b25f8e1c
+26	990	6701648916673013	CMakeFiles/naloga_0401.dir/Artist.cpp.obj	2fea67c04516d240
+12	599	6701669556700432	CMakeFiles/naloga_0401.dir/Artwork.cpp.obj	77a6fb1c9b71fa8e
+15	1549	6701671014682962	CMakeFiles/naloga_0401.dir/Painting.cpp.obj	4647d1d708990405
+19	651	6701669557228609	CMakeFiles/naloga_0401.dir/naloga0501.cpp.obj	c76f431c7c3d5750
+24	448	6702521394506719	build.ninja	bede7072a7bcba7
+2	678	6701673171915418	CMakeFiles/naloga_0501.dir/Artist.cpp.obj	9ef512f7ba3a1a1b
+20	1453	6701797472807711	CMakeFiles/naloga_0501.dir/Painting.cpp.obj	dc028e2e60dab849
+13	1483	6701797473127153	CMakeFiles/naloga_0501.dir/naloga0501.cpp.obj	8dee20407b70b1ab
+16	1496	6701797473251622	CMakeFiles/naloga_0501.dir/Gallery.cpp.obj	e3c8ab0b849273a9
+1496	1702	6701797475216365	naloga_0501.exe	1e4792c7dc6d8208
+6	482	6702527025032492	CMakeFiles/naloga_0501.dir/naloga0501.cpp.obj	8dee20407b70b1ab
+6	405	6702527221474030	CMakeFiles/naloga_0501.dir/Sculpture.cpp.obj	15d5aa47e89f3ea4
+406	770	6702527225075696	naloga_0501.exe	2fd2386aedca6764
+7	398	6702528441916008	CMakeFiles/naloga_0501.dir/naloga0501.cpp.obj	8dee20407b70b1ab
+399	572	6702528443608473	naloga_0501.exe	2fd2386aedca6764

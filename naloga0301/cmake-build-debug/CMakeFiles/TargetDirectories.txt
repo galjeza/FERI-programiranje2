@@ -1,0 +1,3 @@
+D:/galje/Desktop/FERI/Programiranje 2/naloga0301/cmake-build-debug/CMakeFiles/naloga0301.dir
+D:/galje/Desktop/FERI/Programiranje 2/naloga0301/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/galje/Desktop/FERI/Programiranje 2/naloga0301/cmake-build-debug/CMakeFiles/rebuild_cache.dir

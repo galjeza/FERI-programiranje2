@@ -1,0 +1,11 @@
+# ninja log v5
+0	551	6701773424304859	CMakeFiles/naloga0502.dir/Device.cpp.obj	904d4acbc235fe88
+6	634	6701773425112695	CMakeFiles/naloga0502.dir/Light.cpp.obj	cc92bd85cf237862
+33	639	6701773425192478	CMakeFiles/naloga0502.dir/Phone.cpp.obj	2e1aa8a1908bce4c
+18	653	6701773425411890	CMakeFiles/naloga0502.dir/TV.cpp.obj	619acd010cd6852c
+9	433	6701773811938082	CMakeFiles/naloga0502.dir/SmartHome.cpp.obj	c205dd96d3c7837b
+482	655	6701786770648349	naloga0502.exe	6b2b46dec8626d98
+8	481	6701786768958061	CMakeFiles/naloga0502.dir/naloga0502.cpp.obj	abd8ef08612a49a6
+13	409	6702531741212256	CMakeFiles/naloga0502.dir/VentilationSystem.cpp.obj	20721ef01eef780e
+7	447	6702531741610202	CMakeFiles/naloga0502.dir/naloga0502.cpp.obj	abd8ef08612a49a6
+447	814	6702531745249567	naloga0502.exe	7a8cad6c3877ff4c

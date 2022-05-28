@@ -1,0 +1,8 @@
+1. V razred Gallery dodajte metodo removeArtwork(Artwork* artwork), ki odstrani umetnino iz galerije.
+2. V razred Gallery dodajte metodo getArtworksBetweenYear(unsigned int startYear, unsigned int endYear), ki vrne vse umetnine (vector), ki imajo letnico med navedenima argumentima.
+
+
+
+//Naloga0402
+1. V razred Event dodajte metodo getAllAttendees(), ki vrne vse udeležence (vector). Pri tem pazite, da se vsak udeleženec v seznamu nahaja samo enkrat.
+2. Dodajte pogoj, ki preverja, da pri dodajanju novega dogodka (addEvent) ne dodamo dogodek z datumom, na katerega že obstaja dogodek. Posledično spremenite, da addEvent vrača bool vrednost, in sicer true, če je dogodek dodan in false, če ni (torej je obstajal že dogodek s tem datumom).
